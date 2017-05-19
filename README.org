@@ -1,0 +1,10 @@
+#+title: P2K API
+#+startup: hidestars
+
+/This library is a piece of ancient history; I worked on that circa 2007./
+
+A header file and example programs utilizing p2kapi.dll by Vilko. The library was used for modding old Motorola feature phones.
+
+P2K is an old Motorola OS/protocol that could be used to communicate with Motorola feature phones.
+
+I've lost the original README for the library; what's in this repository is all that remains.
